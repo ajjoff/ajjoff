@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arjun
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Python Coding
 - 🌱 I’m currently upskilling myself from Python basic to intermediate
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 arjunkhede@gmail.coom
